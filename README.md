@@ -1,4 +1,9 @@
 # 🔐 ESP32 Security System with Keypad & Email Alert
+![Platform](https://img.shields.io/badge/Platform-ESP32-blue)
+![Language](https://img.shields.io/badge/Language-C++-orange)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Status](https://img.shields.io/badge/Build-Stable-brightgreen)
+
 
 This project is a smart **security system** built using an **ESP32**, **4x4 keypad**, **LCD**, and **buzzer**.  
 It sends an **email alert** after 3 wrong password attempts using the `ESP_Mail_Client` library.
