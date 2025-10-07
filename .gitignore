@@ -1,0 +1,16 @@
+# Arduino build files
+*.hex
+*.elf
+*.bin
+*.cpp.d
+*.cpp.o
+
+# VSCode / Arduino cache
+.vscode/
+build/
+__pycache__/
+.DS_Store
+
+# Backup files
+*.bak
+*.tmp
